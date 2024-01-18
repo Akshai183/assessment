@@ -1,0 +1,2 @@
+#!/bin/bash
+bash .eval/tester.sh .assessment remote validate test fetch
